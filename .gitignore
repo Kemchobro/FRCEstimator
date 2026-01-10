@@ -1,0 +1,4 @@
+/build
+/gtsam_build
+/install
+src/.DS_Store
