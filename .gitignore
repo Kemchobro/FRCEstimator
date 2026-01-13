@@ -2,3 +2,5 @@
 /gtsam_build
 /install
 src/.DS_Store
+.DS_Store
+/output
